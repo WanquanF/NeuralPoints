@@ -1,5 +1,7 @@
-# Code for CVPR2022 Submission
-The code is for the paper (submitted to CVPR 2022): Neural Points: Point Cloud Representation with Neural Fields.
+# Code for CVPR2022 Paper
+The code is for the CVPR 2022 paper: Neural Points: Point Cloud Representation with Neural Fields for Arbitrary Upsampling.
+- Paper:[https://arxiv.org/abs/2112.04148](https://arxiv.org/abs/2112.04148)
+- Project Page:[https://wanquanf.github.io/NeuralPoints.html](https://wanquanf.github.io/NeuralPoints.html)
 
 ## Prerequisite Installation
 The code has been tested with Python3.8, PyTorch 1.6 and Cuda 10.2:
