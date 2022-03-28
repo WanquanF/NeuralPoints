@@ -40,5 +40,14 @@ To train our network, run:
 
     python train_script101.py
 
-    
+
+## Citation
+Please cite this paper with the following bibtex:
+
+    @inproceedings{feng2022np,
+        author    = {Wanquan Feng and Jin li and Hongrui Cai and Xiaonan Luo and Juyong Zhang},
+        title     = {Neural Points: Point Cloud Representation with Neural Fields for Arbitrary Upsampling},
+        booktitle = {{IEEE/CVF} Conference on Computer Vision and Pattern Recognition (CVPR)},
+        year      = {2022}
+    }
 
