@@ -51,3 +51,6 @@ Please cite this paper with the following bibtex:
         year      = {2022}
     }
 
+
+## Acknowledgement
+In this repo, we borrowed the backbone structure from [DGCNN](https://github.com/WangYueFt/dgcnn).
