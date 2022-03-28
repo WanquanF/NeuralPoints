@@ -4,6 +4,9 @@ This repo is the implementation of the paper: Neural Points: Point Cloud Represe
 - Paper address: [https://arxiv.org/abs/2112.04148](https://arxiv.org/abs/2112.04148)
 - Project webpage: [https://wanquanf.github.io/NeuralPoints.html](https://wanquanf.github.io/NeuralPoints.html)
 
+
+![avatar](./utils/Pipeline_v5.png)
+
 ## Prerequisite Installation
 The code has been tested with Python3.8, PyTorch 1.6 and Cuda 10.2:
 
