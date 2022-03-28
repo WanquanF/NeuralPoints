@@ -1,7 +1,8 @@
-## Neural Points: Point Cloud Representation with Neural Fields for Arbitrary Upsampling
-The code is for the CVPR 2022 paper: Neural Points: Point Cloud Representation with Neural Fields for Arbitrary Upsampling.
-- Paper: [https://arxiv.org/abs/2112.04148](https://arxiv.org/abs/2112.04148)
-- Project Page: [https://wanquanf.github.io/NeuralPoints.html](https://wanquanf.github.io/NeuralPoints.html)
+# Neural Points
+This repo is the implementation of the paper: Neural Points: Point Cloud Representation with Neural Fields for Arbitrary Upsampling (CVPR 2021).
+
+- Paper address: [https://arxiv.org/abs/2112.04148](https://arxiv.org/abs/2112.04148)
+- Project webpage: [https://wanquanf.github.io/NeuralPoints.html](https://wanquanf.github.io/NeuralPoints.html)
 
 ## Prerequisite Installation
 The code has been tested with Python3.8, PyTorch 1.6 and Cuda 10.2:
