@@ -1,5 +1,5 @@
 # Neural Points
-This repo is the implementation of the paper: Neural Points: Point Cloud Representation with Neural Fields for Arbitrary Upsampling (CVPR 2022).
+【Code of CVPR 2022 paper】Neural Points: Point Cloud Representation with Neural Fields for Arbitrary Upsampling (CVPR 2022).
 
 - Paper address: [https://arxiv.org/abs/2112.04148](https://arxiv.org/abs/2112.04148)
 - Project webpage: [https://wanquanf.github.io/NeuralPoints.html](https://wanquanf.github.io/NeuralPoints.html)
