@@ -8,7 +8,7 @@
 ![avatar](./utils/Pipeline_v5.png)
 
 ## Prerequisite Installation
-The code has been tested with Python3.8, PyTorch 1.6 and Cuda 10.2:
+The code has been tested on Ubuntu 18, with Python3.8, PyTorch 1.6 and Cuda 10.2:
 
     conda create --name NePs
     
